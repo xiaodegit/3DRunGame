@@ -1,0 +1,79 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "78ca049a-6843-4438-b3ac-d2f5d468ad1b",
+  "files": [],
+  "subMetas": {
+    "1538a": {
+      "importer": "gltf-mesh",
+      "uuid": "78ca049a-6843-4438-b3ac-d2f5d468ad1b@1538a",
+      "displayName": "",
+      "id": "1538a",
+      "name": "road.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35ea4": {
+      "importer": "gltf-material",
+      "uuid": "78ca049a-6843-4438-b3ac-d2f5d468ad1b@35ea4",
+      "displayName": "",
+      "id": "35ea4",
+      "name": "road.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "09d61": {
+      "importer": "gltf-scene",
+      "uuid": "78ca049a-6843-4438-b3ac-d2f5d468ad1b@09d61",
+      "displayName": "",
+      "id": "09d61",
+      "name": "road.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "78ca049a-6843-4438-b3ac-d2f5d468ad1b@09d61",
+    "assetFinder": {
+      "meshes": [
+        "78ca049a-6843-4438-b3ac-d2f5d468ad1b@1538a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "78ca049a-6843-4438-b3ac-d2f5d468ad1b@35ea4"
+      ],
+      "scenes": [
+        "78ca049a-6843-4438-b3ac-d2f5d468ad1b@09d61"
+      ]
+    }
+  }
+}
